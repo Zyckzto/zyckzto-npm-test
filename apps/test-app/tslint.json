@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "zyckztoNpmTest", "camelCase"],
+    "component-selector": [true, "element", "zyckzto-npm-test", "kebab-case"]
+  }
+}

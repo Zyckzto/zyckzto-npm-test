@@ -1,0 +1,22 @@
+{
+  "name": "@zyckzto-test-org/zyckzto-npm-test",
+  "version": "1.0.0",
+  "description": "npm publish package test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyckzto/zyckzto-npm-test.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "publish"
+  ],
+  "author": "Sixto Mitre Juarez <sixtomitrejuarez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zyckzto/zyckzto-npm-test/issues"
+  },
+  "homepage": "https://github.com/Zyckzto/zyckzto-npm-test#readme"
+}
