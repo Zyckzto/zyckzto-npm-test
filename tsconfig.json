@@ -15,7 +15,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@zyckzto-npm-test/test-button": ["libs/test-button/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

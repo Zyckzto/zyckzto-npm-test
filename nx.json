@@ -13,6 +13,9 @@
     },
     "test-app": {
       "tags": []
+    },
+    "test-button": {
+      "tags": []
     }
   }
 }

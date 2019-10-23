@@ -1,0 +1,18 @@
+:host {
+  display: flex;
+
+  button {
+    display: flex;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+    background: #aa00bb;
+    color: #ffffff;
+    border: 1px solid #880099;
+    border-radius: 4px;
+    transition: background-color ease-in-out 0.3s;
+
+    &:hover {
+      background: #880099;
+    }
+  }
+}
